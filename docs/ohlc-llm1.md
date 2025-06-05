@@ -93,23 +93,23 @@ Incorporate transaction costs and slippage in any practical evaluation.
 Step
 Key Points
 
-- **Feature Engineering
+- **Feature Engineering**
     - Lagged returns, technical indicators, volatility, external data**
 
 
-- **Algorithms
+- **Algorithms**
     - Tree-based models, linear models, LSTM/CNN for deep learning**
 
 
-- **Volatility Handling
+- **Volatility Handling**
     - Normalize targets, include volatility features, regime detection**
 
 
-- **Validation
+- **Validation**
     - Time-series split, walk-forward, avoid lookahead bias**
 
 
-- **Best Practices
+- **Best Practices**
     - Benchmark, avoid overfitting, backtest with costs, use robust features**
 
 
